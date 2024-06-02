@@ -1,4 +1,3 @@
-DROP TABLE Users;
 CREATE TABLE Users(
     username VARCHAR(255) NOT NULL,
     mail VARCHAR(255) NOT NULL,
