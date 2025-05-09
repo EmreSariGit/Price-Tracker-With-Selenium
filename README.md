@@ -4,18 +4,23 @@ A price tracking system that allows users to search for products on Amazon and A
 ## 📌 Features
 
 - Product Search:
+
 Users can search for products on Amazon and Alibaba.
 
 - Watchlist:
+
 Users can add desired products to a watchlist for price tracking.
 
 - Automated Price Scanning:
+
 Python and Selenium are used to automatically scrape product prices from the websites.
 
 - Price Drop Notifications:
+
 When a price drop is detected, the system sends an email notification to the user.
 
 - Real-Time Data:
+
 Continuously fetches up-to-date pricing information.
 
 - User Interaction:
